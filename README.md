@@ -9,8 +9,8 @@ Sou um entusiasta de tecnologia apaixonado por **desenvolvimento de software**. 
 - **Banco de Dados**: PostgreSQL
 
 ### 📫 Como me Encontrar:
-- E-mail: [seuemail@exemplo.com](mailto:seuemail@exemplo.com)
-- Istagram: [@seunome](https://twitter.com/seunome)
+- E-mail: ianzoka763@gmail.com(mailto:seuemail@exemplo.com)
+- Istagram: [plmds.gabriel](https://instagram.com/plmds.gabriel)
 
 ---
 
