@@ -22,6 +22,14 @@ Sou um entusiasta de tecnologia apaixonado por **desenvolvimento de software**. 
 
 ---
 
+### 📊 Estatísticas do GitHub:
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=uianzin&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical)
+
+---
+
+### 🌐 Linguagens que mais uso:
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=uianzin&layout=compact&theme=radical)
 
 
