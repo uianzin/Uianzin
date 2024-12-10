@@ -10,7 +10,7 @@ Sou um entusiasta de tecnologia apaixonado por **desenvolvimento de software**. 
 
 ### 📫 Como me Encontrar:
 - E-mail: [ianzoka763@gmail.com](mailto:ianzoka763@gmail.com)
-- Istagram: [@plmds.gabriel](https://instagram.com/plmds.gabriel)
+- Instagram: [@plmds.gabriel](https://instagram.com/plmds.gabriel)
 
 ---
 
