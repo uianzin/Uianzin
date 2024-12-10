@@ -24,3 +24,4 @@ Sou um entusiasta de tecnologia apaixonado por **desenvolvimento de software**. 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?uianzin=uianzin&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical)
 
+
