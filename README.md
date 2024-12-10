@@ -1,16 +1,26 @@
-### Hi there 👋
+# Olá, eu sou Ian G.! 👋
 
-<!--
-**uianzin/Uianzin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou um entusiasta de tecnologia apaixonado por **desenvolvimento de software**. Estou sempre em busca de novos desafios e oportunidades para aprender e crescer.
 
-Here are some ideas to get you started:
+### 🛠️ Tecnologias e Ferramentas que Uso:
+- **Linguagens de Programação**: JavaScript, Java, 
+- **Frameworks**: Node.js
+- **Ferramentas**: Git, VSCode
+- **Banco de Dados**: PostgreSQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Como me Encontrar:
+- E-mail: [seuemail@exemplo.com](mailto:seuemail@exemplo.com)
+- Istagram: [@seunome](https://twitter.com/seunome)
+
+---
+
+> "A jornada de mil linhas de código começa com um commit." - Eu 😄
+
+---
+
+📈 Tenho como objetivo explorar novas tecnologias e colaborar em projetos que podem impactar positivamente o mundo.
+
+---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?uianzin=seunome&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical)
+
